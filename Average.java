@@ -5,9 +5,9 @@ class Average {
 
 		// début de ton code ici !
    
-      for (int i = 0; i < values.length ; i = i + 1){
-          total = total + values[i];
-      }
+      		for (int i = 0; i < values.length ; i = i + 1){
+          	total = total + values[i];
+      		}
 
 		// fin de ton code :)
 
